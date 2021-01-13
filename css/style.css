@@ -1,0 +1,26 @@
+.update{
+    padding: 2%;
+    background-color: #d3d3d3;
+    border-radius: 10px;
+}
+.button{
+    background-color: #ff3082;
+    border: 0;
+    color: white;
+    padding: 2%;
+    margin: 2%;
+    border-radius: 10px;
+}
+.footr-update{
+    border: 0;
+    background-color: white;
+}
+.panda-card{
+    border: 0;
+}
+.panda-catagories{
+    border: 1px gray;
+    padding: 4%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+}
